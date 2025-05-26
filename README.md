@@ -6,7 +6,7 @@ Note: This script retrains the sentiment analysis model each time it is executed
 Since no random seed is fixed, results such as accuracy and predictions may vary slightly between runs.  
 This is expected behavior due to random initialization and data shuffling during training.
 
-- Use `CNN_movie_reviews.ipynb` for an interactive demo with explanations.  
+- Use `CNN_movie_reviews.pdf` for an interactive demo with explanations.  
 - Use `CNN_movie_reviews.py` to run the model in standard Python environments. 
 #### Dataset Reference
 The IMDB dataset used in this project was developed by Andrew L. Maas et al. (2011) and is publicly available at:
